@@ -1,0 +1,46 @@
+site_name: Welcome to Dr. Zuo's Homepage
+site_url:
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Teaching: teaching.md
+  - Service: service.md
+  - Contact Me: contact.md
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+
+  palette:
+      # Palette toggle for light mode
+    - scheme: default
+      toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+      primary: black
+
+      # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+      primary: grey
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: Copyright &copy; 2023 John Rhee
+
+
+extra:
+  generator: false
