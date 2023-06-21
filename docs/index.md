@@ -44,15 +44,15 @@ Our department has created a strong hands-on cybersecurity program. Please find 
 - ProvSec: Cybersecurity System Provenance Analysis Benchmark Dataset (SERA 2023)
 - Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer (SERA 2023)
 - Use It-No Need to Shake It! Accurate Implicit Authentication for Everyday Objects with Smart Sensing (UbiComp 2022)
-- <a href="/research/">... More ...</a>
+- <a href="/fzuo/research/">... More ...</a>
 
 ## Teaching
 
-- <a href="/teaching/#OS">CMSC4153/5053: Operating Systems</a>, Fall/Spring semester
+- <a href="/fzuo/teaching/#OS">CMSC4153/5053: Operating Systems</a>, Fall/Spring semester
 
-- <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration and Certification</a>, Fall sememster
+- <a href="/fzuo/teaching/#SSA">CMSC4163/5163: Secure System Administration and Certification</a>, Fall sememster
 
-- <a href="/teaching/#DS">CMSC3613: Data Structures and Algorithms</a>, Spring sememster
+- <a href="/fzuo/teaching/#DS">CMSC3613: Data Structures and Algorithms</a>, Spring sememster
 
 ## Service
 
@@ -62,4 +62,4 @@ Our department has created a strong hands-on cybersecurity program. Please find 
 
 - Research mentor of Fulbright scholar program (05/2022 - 08/2022)
 
-- <a href="/service/">... More ...</a>
+- <a href="/fzuo/service/">... More ...</a>
