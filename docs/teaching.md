@@ -25,7 +25,7 @@
     <li> <font size=2> Print copy can be purchased on <a href="https://www.amazon.com/dp/7302529744/ref=olp-opf-redir?aod=1&condition=new&tag=bookfinder-test-b2-20"> Amazon</a> </font> </li>
     <li> <font size=2> <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_08302801.html">More information</a> </font> </li>
     </td>
-    <td width="30%"> <img src="pics/book743.jpg" border=0 alt=""> </td>
+    <td width="30%"> <img src="pics/book743.jpg" border=0 width="200" alt=""> </td>
 </tr>
 
 <tr>
@@ -38,6 +38,6 @@
     <li> <font size=2> This edition is currently out of print, please purchase the newest version if interested </font> </li>
     <li> <font size=2> <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07100101.html">More information</a> </font> </li>
     </td>
-    <td width="30%"><img src="https://github.com/fzuo/fzuo/blob/main/docs/pics/book743.jpg" border=0 alt=""></td>
+    <td width="30%"><img src="https://github.com/fzuo/fzuo/blob/main/docs/pics/book743.jpg" border=0 width="200" alt=""></td>
 </tr>
 </table>
