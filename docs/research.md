@@ -6,6 +6,8 @@
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
+<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 55-65. 
+
 <li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset.", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
 <li> Suhan Jiang, Jie Wu, and Fei Zuo. "Balance-aware cost-efficient routing in the payment channel network.", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
