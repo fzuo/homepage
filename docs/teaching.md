@@ -12,139 +12,33 @@
 
 <h3 id="SDD">CMSC4513/SE4513: Software Design & Development</h3>
 
-# Books
 
+## Books
 
-<table>
+<table border="1">
 <tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
+    <td width="700">
+    <font size=4> <b> Applied Mathematics in Digital Image Processing, 2nd Ed. </b> </font> <br>
+    <li> <font size=3> Published by Tsinghua University Press, 2020</font> </li>
+    <li> <font size=3> Language: Simplified Chinese</font> </li>
+    <li> <font size=3> ISBN: MCS 130 </font> </li>
+    <li> <font size=3> Print copy can be purchased on <a href="https://orcid.org/0000-0001-8902-1753">Amazon</a>  </font> </li>
+    <li> <font size=3> <a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">More information</a> </font> </li>
+    <br>
+    </td>
+    <td width="200"> <img src="pics/profile00.jpeg" width=" 200" border=0 alt=""> </td>
 </tr>
 
 <tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
-</tr>
-
-<tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
-</tr>
-
-<tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
-</tr>
-
-<tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
-</tr>
-
-<tr>
-
-<td width="700">
-
-<font size=4> <b> Assistant Professor </b> </font> <br>
-
-<li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
-<li> <font size=3> Office: MCS 130 </font> </li>
-<li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
-
-<br> <font size=3>
-<a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
-<a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
-
-</td>
-
-<td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
-</td>
+    <td width="700">
+    <font size=4> <b> Applied Mathematics in Digital Image Processing, 1st Ed. </b> </font> <br>
+    <li> <font size=3> Published by Tsinghua University Press, 2017 </font> </li>
+    <li> <font size=3> Language: Simplified Chinese </font> </li>
+    <li> <font size=3> ISBN:  </font> </li>
+    <li> <font size=3> Print copy can be purchased on <a href="https://orcid.org/0000-0001-8902-1753">Amazon</a>  </font> </li>
+    <li> <font size=3> <a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">More information</a> </font> </li>
+    <br>  
+    </td>
+    <td width="200"><img src="pics/profile00.jpeg" width=" 200" border=0 alt=""></td>
 </tr>
 </table>
