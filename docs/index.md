@@ -19,7 +19,7 @@
 </td>
 
 <td width="200">
-<img src="pics/profile00.jpeg" width=" 200" border=0 alt="">
+<img src="pics/profile00.jpeg" width=" 200" border=0 alt=""> </img>
 </td>
 </tr>
 </table>
