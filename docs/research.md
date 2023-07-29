@@ -1,18 +1,20 @@
 # Research
 
 <ul>
-  
-<li> Fei Zuo, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: security patch detection in open source software via Transformer", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
+<li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), 2023.
+  
+<li> Fei Zuo, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: security patch detection in open source software via Transformer", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
+
+<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 55-65. 
 
-<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
+<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Cybersecurity system provenance analysis benchmark dataset", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Suhan Jiang, Jie Wu, Fei Zuo, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
+<li> Suhan Jiang, Jie Wu, Fei Zuo, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Xin Zhang, Yuqi Song, Fei Zuo, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
+<li> Xin Zhang, Yuqi Song, Fei Zuo, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
 <li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023.
 

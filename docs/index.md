@@ -40,8 +40,8 @@ Our department has created a strong hands-on cybersecurity program. Please find 
 
 ## Recent Publication
 
+- A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-involved Cybersecurity Program (SIGITE 2023)
 - D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators (ADMA 2023)
-- ProvSec: Cybersecurity System Provenance Analysis Benchmark Dataset (SERA 2023)
 - Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer (SERA 2023)
 - Use It-No Need to Shake It! Accurate Implicit Authentication for Everyday Objects with Smart Sensing (UbiComp 2022)
 - <a href="/fzuo/research/">... More ...</a>
