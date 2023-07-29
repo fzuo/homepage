@@ -1,5 +1,9 @@
 # Fei Zuo, Ph.D.
 
+<!-- /git_projects/fzuo$ git add .
+/git_projects/fzuo$ git commit -m "Updating files"
+/git_projects/fzuo$ git push origin main-->
+
 <table>
 <tr>
 
