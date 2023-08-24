@@ -62,6 +62,8 @@ Our department has created a strong hands-on cybersecurity program. Please find 
 
 - Graduate program advisor at the department of computer science (08/2023 - )
 
+- Member of URCAT, Undergraduate Research and Creative Activities Team (08/2023 - )
+
 - Curriculum committee at the college of mathematics and science (01/2023 - 12/2023)
 
 - Research mentor of Fulbright scholar program (05/2022 - 08/2022)
