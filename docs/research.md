@@ -1,5 +1,7 @@
 # Research
 
+## Publications in recent 3 years
+
 <ul>
 
 <li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), 2023.
@@ -27,5 +29,3 @@
 <li> Lannan Luo, Qiang Zeng, Bokai Yang, Fei Zuo, and Junzhe Wang. "Westworld: Fuzzing-assisted remote dynamic symbolic execution of smart apps on iot cloud platforms", In Annual Computer Security Applications Conference (ACSAC), pp. 982-995. 2021.
 
 </ul>
-
-
