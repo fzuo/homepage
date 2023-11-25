@@ -67,7 +67,7 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## Service
 
-- Graduate program advisor and graduate committee chair of CS/DS major (08/2023 - )
+- Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - )
 
 - URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - )
 

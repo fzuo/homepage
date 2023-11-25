@@ -22,7 +22,7 @@
 
 <li> Xin Zhang, Yuqi Song, Fei Zuo, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023.<a href="https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24">[Link]</a>
+<li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023. <a href="https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24">[Link]</a>
 
 <li> Junghwan Rhee, Myung-Ah Park, Fei Zuo, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident Response-focused Cybersecurity Undergraduate Curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7 (2023): 65-74.
 
