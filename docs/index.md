@@ -16,7 +16,14 @@
 <li> <font size=3> Department of Computer Science </font> </li>
 <li> <font size=3>  University of Central Oklahoma </font> </li>
 
+
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css" />
+
+
 <br> <font size=3>
+    <span class="fa fa-facebook"></span>
+    <span class="fa fa-twitter"></span>
+    <span class="fa fa-instagram"></span>
 <a href="https://scholar.google.com/citations?hl=en&user=PCRl368AAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0001-8902-1753">[ORCID]</a> </font> 
 
@@ -49,7 +56,7 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 - A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-involved Cybersecurity Program (SIGITE 2023)
 - D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators (ADMA 2023)
 - Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer (SERA 2023)
-- Use It-No Need to Shake It! Accurate Implicit Authentication for Everyday Objects with Smart Sensing (UbiComp 2022)
+- ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/research/">... More ...</a>
 
 ## Teaching
@@ -62,7 +69,7 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## Service
 
-- Graduate program advisor of CS/DS major (08/2023 - )
+- Graduate program advisor and graduate committee chair of CS/DS major (08/2023 - )
 
 - URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - )
 
@@ -70,6 +77,6 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
 
-- Research mentor of Fulbright scholar program (05/2022 - 08/2022)
+- Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
 
 - <a href="/service/">... More ...</a>
