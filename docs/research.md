@@ -12,7 +12,7 @@
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 55-65. 
+<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 43-52. 
 
 <li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a>
 
