@@ -52,9 +52,9 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## News and Ads
 
-- Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
+- Cody Tompkins is selected as the representative of UCO to present our research work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a>.
 
-- Cody Tompkins is selected as the representative of UCO to present his research work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a>.
+- Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
 - I was invited to deliver a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.
 
