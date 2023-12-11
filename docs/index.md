@@ -70,9 +70,9 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - <a href="/teaching/#OS">CMSC4153/5053: Operating Systems</a>, Fall/Spring semester
 
-- <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration and Certification</a>, Fall sememster
+- <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration and Certification</a>, Fall semester
 
-- <a href="/teaching/#DS">CMSC3613: Data Structures and Algorithms</a>, Spring sememster
+- <a href="/teaching/#DS">CMSC3613: Data Structures and Algorithms</a>, Spring semester
 
 ## Service
 
