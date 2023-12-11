@@ -12,7 +12,7 @@
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "PowerGrader: Automating code assessment based on PowerShell for programming courses", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 43-52. <a href="https://www.ccsc.org/publications/journals/SE2023.pdf#page=43">[Link]</a>
+<li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5 (2023): 43-52. <a href="https://dl.acm.org/doi/pdf/10.5555/3637068.3637072">[Link]</a>
 
 <li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a>
 
@@ -24,7 +24,7 @@
 
 <li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023. <a href="https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24">[Link]</a>
 
-<li> Junghwan Rhee, Myung-Ah Park, Fei Zuo, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident Response-focused Cybersecurity Undergraduate Curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7 (2023): 65-74.
+<li> Junghwan Rhee, Myung-Ah Park, Fei Zuo, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident Response-focused Cybersecurity Undergraduate Curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7 (2023): 65-74. <a href="https://dl.acm.org/doi/pdf/10.5555/3606431.3606438">[Link]</a>
 
 <li> Chuxiong Wu, Xiaopeng Li, Fei Zuo, Lannan Luo, Xiaojiang Du, Jia Di, and Qiang Zeng. "Use it-no need to shake it! Accurate implicit authentication for everyday objects with smart sensing", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6, No. 3 (2022): 1-25.
 
