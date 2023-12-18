@@ -60,9 +60,9 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## Recent Publication
 
-- A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-involved Cybersecurity Program (SIGITE 2023)
-- D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators (ADMA 2023)
-- Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer (SERA 2023)
+- A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program (SIGITE 2023)
+- D-score: A white-box diagnosis score for CNNs based on mutation operators (ADMA 2023)
+- Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
 - ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/research/">... More ...</a>
 
