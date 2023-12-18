@@ -6,6 +6,9 @@
 
 <li> Fei Zuo, and Junghwan Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security. (Accepted & To appear)
 
+<li> Chenglong Fu, Xiaojiang Du, Zhenyu Zhao, Fei Zuo, Qiang Zeng, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+(WiSec), 2024.
+
 <li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), 2023. <a href="https://dl.acm.org/doi/10.1145/3585059.3611416">[Link]</a>
   
 <li> Fei Zuo, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: Security patch detection in open source software via Transformer", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
@@ -22,9 +25,9 @@
 
 <li> Xin Zhang, Yuqi Song, Fei Zuo, Zheqing Zhou, and Xiaofeng Wang. "Towards imbalanced large scale multi-label classification with partially annotated labels", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
-<li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-Score: A White-Box Diagnosis Score for CNNs Based on Mutation Operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023. <a href="https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24">[Link]</a>
+<li> Xin Zhang, Yuqi Song, Xiaofeng Wang, and Fei Zuo. "D-score: A white-box diagnosis score for CNNs based on mutation operators", The 19th International Conference on Advanced Data Mining and Applications (ADMA), 2023. <a href="https://link.springer.com/chapter/10.1007/978-3-031-46677-9_24">[Link]</a>
 
-<li> Junghwan Rhee, Myung-Ah Park, Fei Zuo, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident Response-focused Cybersecurity Undergraduate Curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7 (2023): 65-74. <a href="https://dl.acm.org/doi/pdf/10.5555/3606431.3606438">[Link]</a>
+<li> Junghwan Rhee, Myung-Ah Park, Fei Zuo, Shuai Zhang, Gang Qian, Goutam Mylavarapu, Hong Sung, and Thomas Turner. "Developing Incident response-focused cybersecurity undergraduate curricula", Journal of Computing Sciences in Colleges, vol 38, No. 7 (2023): 65-74. <a href="https://dl.acm.org/doi/pdf/10.5555/3606431.3606438">[Link]</a>
 
 <li> Chuxiong Wu, Xiaopeng Li, Fei Zuo, Lannan Luo, Xiaojiang Du, Jia Di, and Qiang Zeng. "Use it-no need to shake it! Accurate implicit authentication for everyday objects with smart sensing", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6, No. 3 (2022): 1-25.
 
