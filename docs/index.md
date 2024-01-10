@@ -14,7 +14,7 @@
 <li> <font size=3> Email: fzuo (at) uco.edu </font> </li>
 <li> <font size=3> Office: MCS 130 </font> </li>
 <li> <font size=3> Department of Computer Science </font> </li>
-<li> <font size=3>  University of Central Oklahoma </font> </li>
+<li> <font size=3> University of Central Oklahoma </font> </li>
 
 <br> <font size=3>
 
