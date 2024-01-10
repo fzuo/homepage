@@ -6,7 +6,7 @@
 
 <li> Fei Zuo, and Junghwan Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security, 2024. <a href="https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/patch_commit_mining_review.pdf">[Link]</a>
 
-<li> Chenglong Fu, Xiaojiang Du, Zhenyu Zhao, Fei Zuo, Qiang Zeng, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+<li> Chenglong Fu, Xiaojiang Du, Qiang Zeng, Zhenyu Zhao, Fei Zuo, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks
 (WiSec), 2024.
 
 <li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), 2023. <a href="https://dl.acm.org/doi/10.1145/3585059.3611416">[Link]</a>
