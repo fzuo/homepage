@@ -57,11 +57,13 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## Recent Publication
 
+- Vulnerability discovery based on source code patch commit mining: A systematic literature review (Int. J. Inf. Secur. 2024) 
+- Seeing is believing: Extracting semantic information from video for verifying IoT events (WiSec 2024) 
 - A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program (SIGITE 2023)
 - D-score: A white-box diagnosis score for CNNs based on mutation operators (ADMA 2023)
-- Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
-- ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/research/">... More ...</a>
+<!--  Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
+- ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023) -->
 
 ## Teaching
 
