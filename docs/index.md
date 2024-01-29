@@ -73,7 +73,7 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - <a href="/teaching/#DS">CMSC3613: Data Structures and Algorithms</a>, Spring semester
 
-## Service
+## University Service
 
 - Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - )
 
