@@ -16,19 +16,19 @@
 
 <tr>
 
-<td width="250"> <img src="../pics/sc_005.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_006.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_007.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_008.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_005.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_006.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_007.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_008.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
 <tr>
 
-<td width="250"> <img src="../pics/sc_009.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_010.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_011.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/sc_012.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_009.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_010.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_011.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ak_012.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
