@@ -13,11 +13,17 @@
 
 ##  <b> Journal Reviewer </b>
 
+- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021–2024
+
+- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021–2023
+
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022–2023
+
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022 - 2023
+- <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
-- <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, 2021 - 2024
 
-- <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021 - 2023
+
+
 
