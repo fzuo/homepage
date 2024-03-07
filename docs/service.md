@@ -4,6 +4,8 @@
 
 -  IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): <a href="http://acisinternational.org/conferences/sera-2022/">TPC member</a>, *2022*; <a href="http://acisinternational.org/conferences/sera-2023/">Special Session Chair & Publicity Co-Chair</a>, *2023*; <a href="http://acisinternational.org/conferences/sera-2024/">Special Session Co-Chair</a>, *2024*
 
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, *2024*
+
 - Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): <a href="https://dbsec2024.github.io/">TPC member</a>, *2024*
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, *2023*

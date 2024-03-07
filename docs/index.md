@@ -2,7 +2,10 @@
 
 <!-- /git_projects/fzuo$ git add .
 /git_projects/fzuo$ git commit -m "Updating files"
-/git_projects/fzuo$ git push origin main-->
+/git_projects/fzuo$ git push origin main
+
+mkdocs serve
+-->
 
 <table>
 <tr>
@@ -49,11 +52,15 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## News and Ads
 
-- Our research work has been selected to present for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO.
+- We will present our work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO.
+
+- I am honored to serve on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. We look forward to your submission.
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
 - I was invited to deliver a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.
+
+<!-- Our research work has been selected to present for the -->
 
 ## Recent Publication
 

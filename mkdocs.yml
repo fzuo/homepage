@@ -5,11 +5,17 @@ nav:
   - Research: research.md
   - Teaching: teaching.md
   - Service: service.md
-  - Gallery: gallery.md
+  - Gallery: 
+    - Footprint Map: map.md
+    - Alaska: ak.md
+    - South Carolina: sc.md
   - Contact Me: contact.md
 
 theme:
   name: material
+
+  logo: assets/images/favicon.png
+  favicon: assets/images/favicon.png
 
   features:
     - navigation.tabs
@@ -40,8 +46,10 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: Copyright &copy; 2023 Fei Zuo
+copyright: Copyright &copy; 2024 Fei Zuo
 
+extra_css:
+    - map/map.css
 
 extra:
   generator: false
