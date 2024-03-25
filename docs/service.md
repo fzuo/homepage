@@ -12,6 +12,9 @@
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): <a href="https://www.ccsc.org/southcentral/">Reviewer</a>, *2023*
 
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): Reviewer, *2018*
+
+- IEEE Conference on Communications and Network Security: Reviewer, *2018*
 
 ##  <b> Journal Reviewer </b>
 
@@ -19,7 +22,7 @@
 
 - <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>, 2021–2023
 
-- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022–2023
+- <a href="https://www.sciencedirect.com/journal/journal-of-information-security-and-applications">Journal of Information Security and Applications</a>, 2022–2024
 
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
@@ -27,5 +30,16 @@
 
 
 
+## <b> University Service </b>
 
+- Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - )
 
+- URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - )
+
+- Screening committee of the CS department (01/2023 - )
+
+- Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
+
+- Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
+
+- <a href="/service/">... More ...</a>

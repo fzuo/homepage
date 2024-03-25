@@ -52,11 +52,16 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## News and Ads
 
-- We will present our work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO.
+- Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
 - I am honored to serve on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. We look forward to your submission.
 
-- Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
+- We are organizing a workshop "Edge Intelligence and Vehicles Networks (EIVN)" along with <a href="https://sites.google.com/view/ieee-mass-2024/home">the 21st IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS'24)</a>. Please consider submitting your paper.
+
+
+## Past Activities
+
+- We presented our work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO.
 
 - I was invited to deliver a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.
 
@@ -80,16 +85,4 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
 
-## University Service
 
-- Graduate program advisor of CS/DS major and graduate committee chair (08/2023 - )
-
-- URCAT (Undergraduate Research and Creative Activities Team) of UCO (08/2023 - )
-
-- Screening committee of the CS department (01/2023 - )
-
-- Curriculum committee of the college of mathematics and science (01/2023 - 12/2023)
-
-- Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
-
-- <a href="/service/">... More ...</a>
