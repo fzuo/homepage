@@ -56,7 +56,7 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - I am honored to serve on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. We look forward to your submission.
 
-- We are organizing a workshop "Edge Intelligence and Vehicles Networks (EIVN)" in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">the 21st IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS'24)</a>. Please consider submitting your paper.
+- We are organizing a workshop in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a>. Please consider submitting your paper.
 
 
 ## Past Activities
