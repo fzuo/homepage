@@ -67,6 +67,14 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 <!-- Our research work has been selected to present for the -->
 
+## Teaching
+
+- <a href="/teaching/#OS">CMSC4153/5053: Operating Systems</a>, Fall/Spring semester
+
+- <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration</a>, Fall semester
+
+- <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
+
 ## Recent Publication
 
 - Vulnerability discovery based on source code patch commit mining: A systematic literature review (Int. J. Inf. Secur. 2024) 
@@ -78,13 +86,3 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 - ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/service/">... More ...</a>
  -->
-
-## Teaching
-
-- <a href="/teaching/#OS">CMSC4153/5053: Operating Systems</a>, Fall/Spring semester
-
-- <a href="/teaching/#SSA">CMSC4163/5163: Secure System Administration</a>, Fall semester
-
-- <a href="/teaching/#DS">CMSC3613: Algorithms & Advanced Data Structures </a>, Spring semester
-
-
