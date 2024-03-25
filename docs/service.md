@@ -12,9 +12,9 @@
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): <a href="https://www.ccsc.org/southcentral/">Reviewer</a>, *2023*
 
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): Reviewer, *2018*
+- IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS): External Reviewer, *2018*
 
-- IEEE Conference on Communications and Network Security: Reviewer, *2018*
+- IEEE Conference on Communications and Network Security: External Reviewer, *2018*
 
 ##  <b> Journal Reviewer </b>
 
@@ -27,8 +27,6 @@
 - <a href="https://www.computer.org/csdl/journal/tq">IEEE Transactions on Dependable and Secure Computing</a>, 2023
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
-
-
 
 ## <b> University Service </b>
 
