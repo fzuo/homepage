@@ -14,7 +14,7 @@
 
 - IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS): External Reviewer, *2018*
 
-- IEEE Conference on Communications and Network Security: External Reviewer, *2018*
+- IEEE Conference on Communications and Network Security (CNS): External Reviewer, *2018*
 
 ##  <b> Journal Reviewer </b>
 
@@ -40,4 +40,4 @@
 
 - Research mentor of <a href="https://fulbrightscholars.org/">Fulbright scholar program</a> (05/2022 - 08/2022)
 
-- <a href="/service/">... More ...</a>
+
