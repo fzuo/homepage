@@ -9,6 +9,14 @@
 <li> Chenglong Fu, Xiaojiang Du, Qiang Zeng, Zhenyu Zhao, Fei Zuo, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks
 (WiSec), 2024.
 
+<li> Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context Matters: Investigating Its Impact on ChatGPT’s Bug Fixing Performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+
+<li> Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the Problem of Partial Labels from the Perspective of CNNs' Robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+
+<li> Yuqi Song, Xin Zhang, Bokai Yang, Fei Zuo and Xianshan Qu. "A Robust Attention-based Convolutional Neural Network for Monocular Depth Estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+
+<li> Suhan Jiang, Fei Zuo and Jie Wu. "Utility-Based Routing in Payment Channel Networks: A Tradeoff Between Utility And Privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+
 <li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), pp. 118–124, 2023. <a href="https://dl.acm.org/doi/10.1145/3585059.3611416">[Link]</a>
 
 <li> Fei Zuo, Xin Zhang, Yuqi Song, Junghwan Rhee, and Jicheng Fu. "Commit message can help: Security patch detection in open source software via Transformer", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023. <a href="https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf">[Link]</a>
