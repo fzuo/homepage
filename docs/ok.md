@@ -1,13 +1,6 @@
 <table align=center border="1">
 
-<tr>
 
-<td width="250"> <img src="../pics/ok_001.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_002.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_003.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_004.jpg" width="240" border=0 alt=""></img> </td>
-
-</tr>
 
 <tr>
 
