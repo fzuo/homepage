@@ -30,7 +30,9 @@
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, 2024
 
+<!--
 - <a href="https://www.eurekaselect.com/journal/115">International Journal of Sensors, Wireless Communications and Control</a>, 2024
+-->
 
 ## <b> University Service </b>
 
