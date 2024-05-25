@@ -54,14 +54,14 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- I am awarded a travel fund from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I will attend this event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas, May 20-23, 2024.
-
 - I will join the Editorial Board of <a href="https://dl.acm.org/journal/dtrap">*Digital Threats: Research and Practice*</a> as an associate editor. Welcome to submit your research work to this ACM peer-reviewed journal.
 
 - We are organizing a workshop in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a>. Please consider <a href="https://ieeemass2024.github.io/ieee-mass-EIVN-2024/">submitting your work</a> and joining us at Seoul, South Korea, September 23-25, 2024.
 
 
 ## Past Activities
+
+- I am awarded a travel fund from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attend this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas, May 20-23, 2024.
 
 - I am honored to serve on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. We look forward to seeing you in both conferences.
 
