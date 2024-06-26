@@ -59,15 +59,15 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 ## Past Activities
 
-- I joined the Editorial Board of <a href="https://dl.acm.org/journal/dtrap">*Digital Threats: Research and Practice*</a> as an associate editor. Welcome to submit your research work to this peer-reviewed ACM journal.
+- Joined the Editorial Board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor. Welcome to submit your research work to this peer-reviewed ACM journal.
 
-- I was awarded a travel fund from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas, May 20-23, 2024.
+- Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas, May 20-23, 2024.
 
-- I served on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. 
+- Served on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. 
 
-- We presented our work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO, Mar. 2024.
+- Presented research work for the <a href="https://www.okepscor.org/official-nomination-form-2024-research-day-capitol">2024 Research Day at the Oklahoma Capitol</a> as the representative of UCO, Mar. 2024.
 
-- I was invited to deliver a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.
+- Delivered a research talk at <a href="https://usm.maine.edu/department-computer-science/">University of Southern Maine</a>, Oct. 2023.
 
 <!-- Our research work has been selected to present for the -->
 
