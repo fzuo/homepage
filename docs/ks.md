@@ -14,7 +14,7 @@
 <td width="250"> <img src="../pics/ks_201.JPG" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ks_202.JPG" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ks_203.JPG" width="240" border=0 alt=""></img> </td>
-<td width="250" rowspan="2"> <img src="../pics/ks_402.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250" rowspan="0"> <img src="../pics/ks_402.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
