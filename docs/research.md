@@ -9,6 +9,8 @@
 <li> Chenglong Fu, Xiaojiang Du, Qiang Zeng, Zhenyu Zhao, Fei Zuo, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks
 (WiSec), 2024.
 
+<li> Fei Zuo, Cody Tompkins, Gang Qian, Junghwan Rhee, Xianshan Qu, and Bokai Yang. "ChatGPT as an assembly language interpreter for computing education", Journal of Computing Sciences in Colleges, vol 40, No. 2, 2024.
+
 <li> Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context Matters: Investigating Its Impact on ChatGPT’s Bug Fixing Performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
 <li> Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the Problem of Partial Labels from the Perspective of CNNs' Robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
