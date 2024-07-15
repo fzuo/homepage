@@ -11,9 +11,9 @@
 
 <tr>
 
-<td width="250"> <img src="../pics/ks_201.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ks_202.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ks_203.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ks_201.JPG" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ks_202.JPG" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ks_203.JPG" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ks_204.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
@@ -30,7 +30,7 @@
 <tr>
 
 <td width="250"> <img src="../pics/ks_401.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ks_402.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ks_402.jpg" heght="135" border=0 alt=""></img> </td>
 
 </tr>
 
