@@ -20,7 +20,7 @@
 
 <tr>
 
-<td width="250"> <img src="../pics/ok_401.JPG" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ok_401.jpg" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ok_402.JPG" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ok_403.JPG" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/ok_404.JPG" width="240" border=0 alt=""></img> </td>
