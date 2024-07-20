@@ -47,7 +47,7 @@ I am an assistant professor at <a href="https://uco.edu/">University of Central 
 <br>
 I also serve as the Graduate Program Advisor at the department of computer science. The major responsibility of this role is to assist graduate students with their study plan and enrollment needs throughout their college journey. <br>
 <br>
-My main research interest is <b>System and Software Security</b>, with a focus on data-driven binary analysis, Internet of Things, and mobile computing. I also work on adversarial machine learning.<br>
+My main research interest is <b>System and Software Security</b>, with a focus on data-driven software analysis, system provenance, and mobile computing. I also work on applied artificial intelligence and adversarial machine learning.<br>
 
 
 ## News and Ads
