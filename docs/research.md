@@ -10,6 +10,12 @@
 
 <li> Fei Zuo, Cody Tompkins, Gang Qian, Junghwan Rhee, Xianshan Qu, and Bokai Yang. "ChatGPT as an assembly language interpreter for computing education", Journal of Computing Sciences in Colleges, vol 40, No. 2, 2024.
 
+<li> Bokai Yang, Ling Hao, Yuqi Song, Xin Zhang, Fei Zuo, and Xianshan Qu. "Demographics, approaches, and conceptions: Understanding computer science learning", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024.
+
+<li> Junghwan Rhee, Aakankshya Shrestha, Gang Qian, Fei Zuo, Jicheng Fu, Myungah Park, Goutam Mylavarapu, Xianshan Qu, and Hong Sung. "An evaluation on the impact of large language models on computer science curricula", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024.
+
+<li> Josiah Scott, Fei Zuo, and Junghwan Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024.
+
 <li> Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context Matters: Investigating Its Impact on ChatGPT’s Bug Fixing Performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
 <li> Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the Problem of Partial Labels from the Perspective of CNNs' Robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
