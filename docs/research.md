@@ -16,15 +16,15 @@
 
 <li> Josiah Scott, Fei Zuo, and Junghwan Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024.
 
-<li> Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context Matters: Investigating Its Impact on ChatGPT’s Bug Fixing Performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+<li> Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
-<li> Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the Problem of Partial Labels from the Perspective of CNNs' Robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+<li> Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the problem of partial labels from the perspective of CNNs' robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
-<li> Yuqi Song, Xin Zhang, Bokai Yang, Fei Zuo and Xianshan Qu. "A Robust Attention-based Convolutional Neural Network for Monocular Depth Estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+<li> Yuqi Song, Xin Zhang, Bokai Yang, Fei Zuo and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
-<li> Suhan Jiang, Jie Wu and Fei Zuo. "Utility-Based Routing in Payment Channel Networks: A Tradeoff Between Utility And Privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
+<li> Suhan Jiang, Jie Wu and Fei Zuo. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2024.
 
-<li> Aakankshya Shrestha, Fei Zuo, Gang Qian and Junghwan Rhee.	"A Survey and Insights on Modern Game Development Processes for Software Engineering Education", The 33rd International Conference on Software Engineering and Data Engineering (SEDE), 2024.
+<li> Aakankshya Shrestha, Fei Zuo, Gang Qian and Junghwan Rhee.	"A survey and insights on modern game development processes for software engineering education", The 33rd International Conference on Software Engineering and Data Engineering (SEDE), 2024.
 
 <li> Fei Zuo, Junghwan Rhee, Yonghyun Kim, Jeehyun Oh, and Gang Qian. "A comprehensive dataset towards hands-on experience enhancement in a research-involved cybersecurity program", The 24th ACM Annual Conference on Information Technology Education (SIGITE), pp. 118–124, 2023. <a href="https://dl.acm.org/doi/10.1145/3585059.3611416">[Link]</a>
 
@@ -34,7 +34,8 @@
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5, pp. 43–52, 2023. <a href="https://dl.acm.org/doi/pdf/10.5555/3637068.3637072">[Link]</a>
 
-<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a>
+<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a> **\*This paper ranks as one of <a href="
+https://link.springer.com/journal/44227/updates/27329374">the most downloaded articles</a> in IJNDC from 2021 to 2023**.
 
 <li> Suhan Jiang, Jie Wu, Fei Zuo, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 

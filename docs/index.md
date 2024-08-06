@@ -54,7 +54,9 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- We are organizing a workshop in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a>. Please consider <a href="https://ieeemass2024.github.io/ieee-mass-EIVN-2024/">submitting your work</a> and joining us at Seoul, South Korea, September 23-25, 2024.
+- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work. 
+
+- We are organizing the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a>. We look forward to seeing you at Seoul, South Korea, Sep. 23-25, 2024.
 
 
 ## Past Activities
