@@ -11,10 +11,10 @@
 
 <tr>
 
-<td width="250"> <img src="../pics/fl_201.JPG" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/fl_202.JPG" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/fl_203.JPG" width="240" border=0 alt=""></img> </td>
-<td width="150"> <img src="../pics/fl_204.JPG" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/fl_201.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/fl_202.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/fl_203.jpg" width="240" border=0 alt=""></img> </td>
+<td width="150"> <img src="../pics/fl_204.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
@@ -23,7 +23,7 @@
 <td width="250"> <img src="../pics/fl_301.jpg" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/fl_302.jpg" width="240" border=0 alt=""></img> </td>
 <td width="250"> <img src="../pics/fl_303.jpg" width="240" border=0 alt=""></img> </td>
-<td width="150"> <img src="../pics/fl_304.JPG" width="240" border=0 alt=""></img> </td>
+<td width="150"> <img src="../pics/fl_304.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
