@@ -4,7 +4,7 @@
 <p> &nbsp; &nbsp; &nbsp; &nbsp; 2022F; 2023F; 2024F</p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; This class covers materials for CompTIA Linux+ Certificate, and partially covers Security+ Certificate. </p>
 
-<img src="../pics/logolinuxplus.png" width=" 200" border=0 alt=""> </img> <img src="../pics/logosecurityplus.png" width=" 200" border=0 alt=""> </img>
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="../pics/logolinuxplus.png" width=" 160" border=0 alt=""> </img> <img src="../pics/logosecurityplus.png" width=" 160" border=0 alt=""> </img>
 
 
 - <h4 id="OS">CMSC4153/5053: Operating Systems</h4>
