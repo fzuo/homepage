@@ -34,8 +34,8 @@
 
 <li> Fei Zuo, Junghwan Rhee, Myungah Park, and Gang Qian. "Designing a security system administration course for cybersecurity with a companion project", Journal of Computing Sciences in Colleges, vol 39, No. 5, pp. 43–52, 2023. <a href="https://dl.acm.org/doi/pdf/10.5555/3637068.3637072">[Link]</a>
 
-<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a> **\*This paper ranks as one of <a href="
-https://link.springer.com/journal/44227/updates/27329374">the most downloaded articles</a> in IJNDC from 2021 to 2023**.
+<li> Madhukar Shrestha, Yonghyun Kim, Jeehyun Oh, Junghwan Rhee, Yung Ryn Choe, Fei Zuo, Myungah Park, and Gang Qian. "ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels", International Journal of Networked and Distributed Computing (IJNDC), vol 11, pp. 112–123, 2023. <a href="https://link.springer.com/article/10.1007/s44227-023-00014-9">[Link]</a> *&ast;This paper ranks as one of <a href="
+https://link.springer.com/journal/44227/updates/27329374">the most downloaded articles</a> in IJNDC from 2021 to 2023*.
 
 <li> Suhan Jiang, Jie Wu, Fei Zuo, and Alessandro Mei. "Balance-aware cost-efficient routing in the payment channel network", The 21st IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), 2023.
 
