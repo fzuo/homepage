@@ -2,10 +2,10 @@
 
 <tr>
 
-<td width="250"> <img src="../pics/ok_005.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_006.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_007.jpg" width="240" border=0 alt=""></img> </td>
-<td width="250"> <img src="../pics/ok_008.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ok_101.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ok_102.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ok_103.jpg" width="240" border=0 alt=""></img> </td>
+<td width="250"> <img src="../pics/ok_104.jpg" width="240" border=0 alt=""></img> </td>
 
 </tr>
 
