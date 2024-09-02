@@ -5,11 +5,11 @@
 
 - Fei Zuo, and Junghwan Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security, 2024 [\[Link\]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/patch_commit_mining_review.pdf)
 
-- Junghwan Rhee, Fei Zuo, Yung Ryn Choe, Cody Tompkins, and Jeehyun Oh. "GrizzlyBay: Retroactive SBOM with automated identification for legacy binaries", The 44th IEEE Military Communications Conference (MILCOM), 2024
-
-- Fei Zuo, Cody Tompkins, Qiang Zeng, Lannan Luo, Yung Ryn Choe, and Junghwan Rhee. "BinSimDB: Benchmark Dataset Construction for Fine-Grained Binary Code Similarity Analysis", The 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2024
-
 - Chenglong Fu, Xiaojiang Du, Qiang Zeng, Zhenyu Zhao, Fei Zuo, and Jia Di. "Seeing is believing: Extracting semantic information from video for verifying IoT events", The 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2024 [\[Link\]](https://dl.acm.org/doi/abs/10.1145/3643833.3656124)
+
+- Junghwan Rhee, Fei Zuo, Yung Ryn Choe, Cody Tompkins, and Jeehyun Oh. "GrizzlyBay: Retroactive SBOM with automated identification for legacy binaries", The 44th IEEE Military Communications Conference (MILCOM), 2024 (To appear)
+
+- Fei Zuo, Cody Tompkins, Qiang Zeng, Lannan Luo, Yung Ryn Choe, and Junghwan Rhee. "BinSimDB: Benchmark dataset construction for fine-grained binary code similarity analysis", The 20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2024 (To appear)
 
 - Fei Zuo, Cody Tompkins, Gang Qian, Junghwan Rhee, Xianshan Qu, and Bokai Yang. "ChatGPT as an assembly language interpreter for computing education", Journal of Computing Sciences in Colleges, vol 40, No. 2, 2024
 
