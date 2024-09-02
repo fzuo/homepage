@@ -22,6 +22,8 @@
 
 ##  <b> Peer-reviewed Journal </b>
 
+- <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a>, Associate Editor, 2024
+
 - <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a>, Associate Editor, 2024
 
 - <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems</a>, Reviewer, 2021–2024

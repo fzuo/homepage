@@ -45,9 +45,9 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-I also serve as the Graduate Program Advisor at the department of computer science. The major responsibility of this role is to assist graduate students with their study plan and enrollment needs throughout their college journey. <br>
+My main research interest is <b>System and Software Security</b>, with a focus on data-driven software analysis, system provenance, and mobile computing. I additionally work on applied artificial intelligence and adversarial machine learning. I am an active reviewer for multiple academic journals, and currently serving on the editorial boards of two ACM journals.<br>
 <br>
-My main research interest is <b>System and Software Security</b>, with a focus on data-driven software analysis, system provenance, and mobile computing. I also work on applied artificial intelligence and adversarial machine learning.<br>
+I am also the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
 
 ## News and Ads
@@ -56,14 +56,18 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 
 - I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work. 
 
-- We are organizing the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a>. We look forward to seeing you at Seoul, South Korea, Sep. 23-25, 2024.
+- I will join the Editorial Board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a> as an associate editor. We look forward to receiving your excellent paper.
+
+- I received the RCSA travel grant and will participate in the 33rd CCSC Rocky Mountain Conference at Flagstaff, Arizona (Oct. 18-19, 2024).
 
 
 ## Past Activities
 
-- Joined the Editorial Board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor. Welcome to submit your research work to this peer-reviewed ACM journal.
+- We successfully organized the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 
-- Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas, May 20-23, 2024.
+- Joined the editorial board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor.
+
+- Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas (May 20-23, 2024).
 
 - Served on the program committee of <a href="https://raid2024.github.io/">RAID'24</a> and <a href="https://dbsec2024.github.io/">DBSec'24</a>. 
 
