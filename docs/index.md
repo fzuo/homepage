@@ -49,14 +49,11 @@ My main research interest is <b>System and Software Security</b>, with a focus o
 <br>
 I am also the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
-
 ## News and Ads
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work. 
-
-- I will join the Editorial Board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a> as an associate editor. We look forward to receiving your excellent paper.
+- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work.
 
 - I received the RCSA travel grant and will participate in the 33rd CCSC Rocky Mountain Conference at Flagstaff, Arizona (Oct. 18-19, 2024).
 
@@ -65,7 +62,9 @@ I am also the graduate program director at the department of computer science. I
 
 - We successfully organized the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 
-- Joined the editorial board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor.
+- Joined the Editorial Board of <a href="https://dl.acm.org/journal/toce">ACM Transactions on Computing Education</a> as an associate editor, Sep. 2024.
+
+- Joined the editorial board of <a href="https://dl.acm.org/journal/dtrap">Digital Threats: Research and Practice</a> as an associate editor, May. 2024.
 
 - Travel award from <a href="https://www.wichita.edu/services/hpc/oaksupercompute2024/hpc-security-workshop.php">the 4th HPC Security Workshop</a>. I attended this exciting event and the co-organized 3rd OAK Supercomputing Conference at Wichita, Kansas (May 20-23, 2024).
 
