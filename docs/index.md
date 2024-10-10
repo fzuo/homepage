@@ -45,9 +45,9 @@ mkdocs serve
 
 I am an assistant professor at <a href="https://uco.edu/">University of Central Oklahoma</a>. I obtained my Ph.D. degree in the department of computer science and engineering at University of South Carolina.<br>
 <br>
-My main research interest is <b>System and Software Security</b>, with a focus on data-driven software analysis, system provenance, and mobile computing. I additionally work on applied artificial intelligence and adversarial machine learning. I am an active reviewer for multiple academic journals, and currently serving on the editorial boards of two ACM journals.<br>
+My main research interest is <b>System and Software Security</b>, with a focus on applying new advances in AI to address various cybersecurity challenges, including but not limited to software analysis, system provenance, and mobile computing. I additionally work on adversarial learning and deep learning. I am also an active reviewer for multiple academic journals, and currently serving on the editorial boards of two ACM journals.<br>
 <br>
-I am also the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
+I am the graduate program director at the department of computer science. If you are a prospective student interested in our programs, or if you are already enrolled and need advisement about your college journey, please email <csgrad@uco.edu>. <br>
 
 ## News and Ads
 
@@ -96,4 +96,6 @@ I am also the graduate program director at the department of computer science. I
   Commit message can help: Security patch detection in open source software via Transformer (SERA 2023)
 - ProvSec: Open cybersecurity system provenance analysis benchmark dataset with labels (IJNDC 2023)
 - <a href="/service/">... More ...</a>
+
+- <a href="https://www.eurekaselect.com/journal/115">International Journal of Sensors, Wireless Communications and Control</a>, Reviewer, 2024
  -->
