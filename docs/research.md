@@ -19,11 +19,11 @@
 
 - Josiah Scott, Fei Zuo, and Junghwan Rhee. "Student-perspective observations from the comparison of Rust and C++ languages", Journal of Computing Sciences in Colleges, vol 40, No. 1, 2024
 
-- Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
+- Xianshan Qu, Fei Zuo, Xiaopeng Li and Junghwan Rhee. "Context matters: Investigating its impact on ChatGPT’s bug fixing performance", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 [\[Link\]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Context_Matters_Investigating_Its_Impact_on_ChatGPTs_Bug_Fixing_Performance.pdf)
 
 - Xin Zhang, Yuqi Song, Wyatt McCurdy, Xiaofeng Wang and Fei Zuo. "Revising the problem of partial labels from the perspective of CNNs' robustness", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
 
-- Yuqi Song, Xin Zhang, Bokai Yang, Fei Zuo and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
+- Yuqi Song, Xin Zhang, Bokai Yang, Fei Zuo and Xianshan Qu. "A robust attention-based convolutional neural network for monocular depth estimation", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024 [\[Link\]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/A_Robust_Attention-based_Convolutional_Neural_Network_for_Monocular_Depth_Estimation.pdf)
 
 - Suhan Jiang, Jie Wu and Fei Zuo. "Utility-based routing in payment channel networks: A tradeoff between utility and privacy", The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA), Honolulu, HI, 2024
 
