@@ -55,10 +55,12 @@ I am the graduate program director at the department of computer science. If you
 
 - I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work.
 
-- I received the RCSA travel grant and will participate in the 33rd CCSC Rocky Mountain Conference at Flagstaff, Arizona (Oct. 18-19, 2024).
+- I will serve on the program committee of <a href="https://eurosp2025.ieee-security.org/">EuroS&P'25</a>. We look forward to your submissions. 
 
 
 ## Past Activities
+
+- Received the RCSA travel grant and participated in the 33rd CCSC Rocky Mountain Conference at Flagstaff, Arizona (Oct. 18-19, 2024).
 
 - We successfully organized the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 

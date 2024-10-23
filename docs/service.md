@@ -2,6 +2,8 @@
 
 ##  <b> Academic Conference </b>
 
+- IEEE European Symposium on Security and Privacy (EuroS&P): <a href="https://eurosp2025.ieee-security.org/">TPC member</a>, 2025
+
 - ACM ASIA Conference on Computer and Communications Security (ASIACCS): <a href="https://asiaccs2025.hust.edu.vn/">TPC member</a>, 2025
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024
