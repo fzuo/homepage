@@ -60,7 +60,7 @@ I am the graduate program director at the department of computer science. If you
 
 ## Past Activities
 
-- Visited Flagstaff, Arizona, and presented our work atthe 33rd CCSC Rocky Mountain Conference (Oct. 18-19, 2024).
+- Visited Flagstaff, Arizona, and presented our work at the 33rd CCSC Rocky Mountain Conference (Oct. 18-19, 2024).
 
 - Successfully organized the International Workshop on Edge Intelligence and Vehicles Networks in conjunction with <a href="https://sites.google.com/view/ieee-mass-2024/home">MASS'24</a> at Seoul, South Korea (Sep. 23-25, 2024).
 
