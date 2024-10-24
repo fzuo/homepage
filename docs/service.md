@@ -12,7 +12,7 @@
 
 - International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024
 
-- Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, *2023*
+- Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
 - Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): <a href="https://www.ccsc.org/southcentral/">Reviewer</a>, 2023
 
