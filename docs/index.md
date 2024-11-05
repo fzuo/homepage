@@ -53,7 +53,7 @@ I am the graduate program director at the department of computer science. If you
 
 - Our department has created a strong hands-on cybersecurity program. Please find more information <a href="https://uco-cyber.github.io/education/">here</a>.
 
-- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your novel work.
+- I will serve on the program committee of <a href="https://asiaccs2025.hust.edu.vn/">ASIACCS'25</a>. Please consider submitting your groundbreaking research.
 
 - I will serve on the program committee of <a href="https://eurosp2025.ieee-security.org/">EuroS&P'25</a>. We look forward to your submissions. 
 
