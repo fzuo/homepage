@@ -1,7 +1,11 @@
 # Research
 
-## 2024
+## 2025
 
+- Fang Li, Fei Zuo, and Gopal Gupta. "Exploring answer set programming for provenance graph-Based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, CO, 2025
+
+
+## 2024
 
 - Fei Zuo, and Junghwan Rhee. "Vulnerability discovery based on source code patch commit mining: A systematic literature review", International Journal of Information Security, 2024 [\[Link\]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/patch_commit_mining_review.pdf)
 
