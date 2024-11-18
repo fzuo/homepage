@@ -2,7 +2,7 @@
 
 ## 2025
 
-- Fang Li, Fei Zuo, and Gopal Gupta. "Exploring answer set programming for provenance graph-Based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, CO, 2025
+- Fang Li, Fei Zuo, and Gopal Gupta. "Exploring answer set programming for provenance graph-based cyber threat detection: A novel approach", The 27th International Symposium on Practical Aspects of Declarative Languages (PADL), Denver, CO, 2025
 
 
 ## 2024
