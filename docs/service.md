@@ -8,7 +8,7 @@
 
 - International Symposium on Research in Attacks, Intrusions and Defenses (RAID): <a href="https://raid2024.github.io/">TPC member</a>, 2024
 
-- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): <a href="https://dbsec2024.github.io/">TPC member</a>, 2024-2025
+- Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec): <a href="https://dbsec2024.github.io/">TPC member</a>, 2024; <a href="https://www.ntnu.edu/web/dbsec2025/">TPC member</a>, 2025
 
 - International Workshop on Edge Intelligence and Vehicles Networks (co-located with IEEE MASS): General Co-Chair, 2024
 
