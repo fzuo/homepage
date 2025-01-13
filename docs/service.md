@@ -14,9 +14,9 @@
 
 - Annual Consortium for Computing Sciences in Colleges Southeastern Conference (CCSC SE): <a href="http://www.ccscse.org/conference.php?year=37th">Reviewer & Session Presider</a>, 2023
 
-- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023
+- Annual Consortium for Computing Sciences in Colleges South Central Conference (CCSC SC): Reviewer, 2023, 2025
 
--  IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; <a href="http://acisinternational.org/conferences/sera-2023/">Special Session Chair & Publicity Co-Chair</a>, 2023; <a href="http://acisinternational.org/conferences/sera-2024/">Special Session Co-Chair</a>, 2024
+-  IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA): TPC member, 2022-2025; Special Session Chair, 2023-2024; Publicity Co-Chair, 2023, 2025
 
 - IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS): External Reviewer, 2018
 
@@ -38,7 +38,7 @@
 
 - <a href="https://benthamscience.com/journals/recent-advances-in-electrical-and-electronic-engineering">Recent Advances in Electrical & Electronic Engineering</a>, Reviewer, 2024
 
-- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, Reviewer, 2024
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a>, Reviewer, 2024-2025
 
 
 ## <b> University Service </b>
